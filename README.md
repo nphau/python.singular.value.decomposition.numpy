@@ -1,4 +1,4 @@
-# python.svd.numpy
+# SINGULAR VALUE DECOMPOSITION
 An implementation of the greedy algorithm for SVD, using the power method for the 1-dimensional case.
 python.svd.numpy
 - https://towardsdatascience.com/singular-value-decomposition-example-in-python-dab2507d85a0
